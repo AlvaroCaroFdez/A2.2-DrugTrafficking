@@ -431,6 +431,27 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 <br>
 <br>
 
+## Ficheros encriptados y comprimidos
+Se han encontrado una serie de archivos comprimidos uno de ellos en formato ".zip" y el otro fichero en formato ".xls". Estos ficheros están encriptados presuponiendo que incluyen información delicada. Los archivos tienen los siguientes nombres:
+- pedofilia.zip
+- Contactes.xls
+
+![ficheros-encriptados](/img/pruebas/ficheros_encriptados/ficheros-encriptados.png)
+
+<br>
+
+Hemos podido obtener a quién pertenecía cada archivo, en este caso, el fichero **"pedofilia.zip"** pertenece al usuario **"Ian"**:
+
+![pedofilia](/img/pruebas/ficheros_encriptados/pedofilia.png)
+
+y el fichero **"Contactes.xls"** que pertenece a **"John"**:
+
+![contactos](/img/pruebas/ficheros_encriptados/contactos.png)
+
+
+<br>
+<br>
+
 ## Navegación en Internet
 Para encontrar esta información basta con navegar por **Autopsy**, yendo a "Web Search", "Web History", "Web Bookmarks"
 
@@ -439,7 +460,3 @@ Para encontrar esta información basta con navegar por **Autopsy**, yendo a "Web
 ### [Enlace a búsquedas](https://github.com/AlvaroCaroFdez/A2.2-DrugTrafficking/blob/main/img/pruebas/navegacion_web/Busquedas.csv)
 
 ### [Enlace a marcadores](https://github.com/AlvaroCaroFdez/A2.2-DrugTrafficking/blob/main/img/pruebas/navegacion_web/Marcadores.csv)
-
-<br>
-
-
