@@ -35,7 +35,7 @@ Para la realización de esta actividad se van a utilizar las siguientes herramie
 | Información del sistema |  |
 | :---- | :---- |
 | **Tamaño de la partición (Byte)** | 2623832064 |
-| **Prueba** | ![Foto1](/img/Información_sistema//Foto1.png) |
+| **Prueba** | ![Foto1](/img/informacion_sistema/Foto1.png) |
 | **Sistema y versión del SO** | Microsoft Windows XP |
 | **Nombres de usuarios registrados** | John |
 | **Organización registrada** | home |
@@ -43,7 +43,7 @@ Para la realización de esta actividad se van a utilizar las siguientes herramie
 | **“Service Pack” instalado** | Service Pack 3 |
 | **Fecha y hora de instalación del sistema operativo** | 18 de abril de 2013 a las 15:17:02 (UTC) |
 | **Fecha y hora del último “shutdown”** | 19/06/2013 2:11:46 |
-| **Pruebas** | ![Foto2](/img/Información_sistema/Foto2.png) ![Foto3](/img/Información_sistema/Foto3.png) |
+| **Pruebas** | ![Foto2](/img/informacion_sistema/Foto2.png) ![Foto3](/img/informacion_sistema/Foto3.png) |
 
 ## Información de usuarios
 
