@@ -1,3 +1,9 @@
+author: Álvaro Caro Fernández
+summary: Actividad Drug Trafficking parte 1
+id: identificador-unico-del-codelab
+categories: codelab,markdown
+environments: Web
+status: Published
 
 # A2.2-DrugTrafficking
 
