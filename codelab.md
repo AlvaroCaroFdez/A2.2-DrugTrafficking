@@ -69,7 +69,17 @@ Quitando los usuarios ya definidos por defecto en el sistema, se encuentran los 
 | **Fecha último cambio de contraseña** | 18/04/2013 - 15:18:44 |
 | **Prueba** | ![jessy](/img/informacion_usuarios/Jessy.png) |
 
-Se pueden ver una serie de contradicciones en las fechas,  
+<br>
+
+Sí, existe una contradicción entre las fechas halladas en este apartado y el anterior.
+
+El último inicio de sesión de John aparece como **28/03/2013 a las 03:10:49**, mientras que la fecha de instalación del sistema es **18 de abril de 2013 a las 15:17:02 (UTC)**. Esto implica que el usuario aparentemente inició sesión en un sistema que, según el registro, aún no había sido instalado. Esto se puede deber a diferentes motivos:
+
+- **Restauración desde una copia de seguridad:**
+El sistema pudo haber sido reinstalado o restaurado desde una imagen anterior, lo que preservaría los registros de inicio de sesión con fechas anteriores a la instalación.
+
+- **Manipulación intencionada:**
+No se puede descartar que alguien haya alterado las fechas para encubrir actividades o generar confusión.
 
 <br>
 <br>
@@ -419,10 +429,14 @@ Se pueden ver una serie de contradicciones en las fechas,
 | **Extension**    | jpg                                                                  |
 
 <br>
-
-
-
 <br>
+
+## Navegación en Internet
+Para encontrar esta información basta con navegar por **Autopsy**, yendo a "Web Search", "Web History", "Web Bookmarks"
+
+[Enlace a historial de búsquedas](https://github.com/tu-usuario/tu-repositorio/ruta-al-archivo)
+
+
 <br>
 
 
