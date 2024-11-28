@@ -99,7 +99,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen mataro 2.jpg                                                 |
-| **Imagen**       | ![mataro2](/img/pruebas/archivos_eliminados/27905-Almacen%20mataro%202.jpg)                                      |
+| **Imagen**       | ![mataro2](/img/pruebas/archivos_eliminados/almacen_mataro_2.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:39:14 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -117,7 +117,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen mataro 3.jpg                                                 |
-| **Imagen**       | ![mataro3](/img/pruebas/archivos_eliminados/27907-Almacen%20mataro%203.jpg)                                      |
+| **Imagen**       | ![mataro3](/img/pruebas/archivos_eliminados/almacen_mataro_3.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:39:26 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -135,7 +135,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen mataro.jpg                                                   |
-| **Imagen**       | ![mataro](/img/pruebas/archivos_eliminados/27909-Almacen%20mataro.jpg)                                      |
+| **Imagen**       | ![mataro](/img/pruebas/archivos_eliminados/almacen_mataro.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:39:04 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -153,7 +153,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen terrassa 3.jpg                                               |
-| **Imagen**       | ![terrasa3](/img/pruebas/archivos_eliminados/27911-Almacen%20terrassa%203.jpg)                                      |
+| **Imagen**       | ![terrasa3](/img/pruebas/archivos_eliminados/almacen_terrassa_3.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:39:42 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -171,7 +171,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen terrassa 4.jpg                                               |
-| **Imagen**       | ![terrasa4](/img/pruebas/archivos_eliminados/27913-Almacen%20terrassa%204.jpg)                                      |
+| **Imagen**       | ![terrasa4](/img/pruebas/archivos_eliminados/almacen_terrassa_4.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:40:28 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -189,7 +189,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Almacen terrassa.jpg                                                 |
-| **Imagen**       | ![terrasa](/img/pruebas/archivos_eliminados/27915-Almacen%20terrassa.jpg)                                      |
+| **Imagen**       | ![terrasa](/img/pruebas/archivos_eliminados/almacen_terrassa.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:20:50 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -207,7 +207,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | coca.jpg                                                             |
-| **Imagen**       | ![coca](/img/pruebas/archivos_eliminados/27917-coca.jpg)                                      |
+| **Imagen**       | ![coca](/img/pruebas/archivos_eliminados/coca.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:19:58 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -225,7 +225,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | fabricando coca 2.jpg                                                |
-| **Imagen**       | ![fabricando-coca2](/img/pruebas/archivos_eliminados/27919-fabricando%20coca%202.jpg)                                      |
+| **Imagen**       | ![fabricando-coca2](/img/pruebas/archivos_eliminados/fabricando_coca_2.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:42:34 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -243,7 +243,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | fabricando coca 3.jpg                                                |
-| **Imagen**       | ![fabricando-coca3](/img/pruebas/archivos_eliminados/27921-fabricando%20coca%203.jpg)                                      |
+| **Imagen**       | ![fabricando-coca3](/img/pruebas/archivos_eliminados/fabricando_coca_3.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:43:20 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -261,7 +261,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | fabricando coca 4.jpg                                                |
-| **Imagen**       | ![fabricando-coca4](/img/pruebas/archivos_eliminados/27923-fabricando%20coca%204.jpg)                                      |
+| **Imagen**       | ![fabricando-coca4](/img/pruebas/archivos_eliminados/fabricando_coca_4.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:43:30 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -279,7 +279,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | fabricando coca.jpg                                                  |
-| **Imagen**       | ![fabricando-coca](/img/pruebas/archivos_eliminados/27925-fabricando%20coca.jpg)                                      |
+| **Imagen**       | ![fabricando-coca](/img/pruebas/archivos_eliminados/fabricando_coca.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:42:28 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -297,7 +297,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | fiesta Jorge.jpg                                                     |
-| **Imagen**       | ![fiesta-jorge](/img/pruebas/archivos_eliminados/27927-fiesta%20Jorge.jpg)                                      |
+| **Imagen**       | ![fiesta-jorge](/img/pruebas/archivos_eliminados/fiesta_jorge.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:20:20 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -315,7 +315,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | kasius 2.jpg                                                         |
-| **Imagen**       | ![kasius-2](/img/pruebas/archivos_eliminados/27929-kasius%202.jpg)                                      |
+| **Imagen**       | ![kasius-2](/img/pruebas/archivos_eliminados/kasius_2.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:42:04 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -333,7 +333,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | kasius.jpg                                                           |
-| **Imagen**       | ![kasius](/img/pruebas/archivos_eliminados/27931-kasius.jpg)                                      |
+| **Imagen**       | ![kasius](/img/pruebas/archivos_eliminados/kasius.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:41:58 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -351,7 +351,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Maria en negocio Jorge.jpg                                           |
-| **Imagen**       | ![maria](/img/pruebas/archivos_eliminados/27933-Maria%20en%20negocio%20Jorge.jpg)                                      |
+| **Imagen**       | ![maria](/img/pruebas/archivos_eliminados/maria.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:38:30 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -369,7 +369,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | mercancia 2.jpg                                                      |
-| **Imagen**       | ![mercancia-2](/img/pruebas/archivos_eliminados/27935-mercancia%202.jpg)                                      |
+| **Imagen**       | ![mercancia-2](/img/pruebas/archivos_eliminados/mercancia_2.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:21:06 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -387,7 +387,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | Mercancia terrassa.jpg                                               |
-| **Imagen**       | ![mercancia-terrassa](/img/pruebas/archivos_eliminados/27937-Mercancia%20terrassa.jpg)                                      |
+| **Imagen**       | ![mercancia-terrassa](/img/pruebas/archivos_eliminados/mercancia_terrassa.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:38:52 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -405,7 +405,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | mercancia.jpg                                                        |
-| **Imagen**       | ![mercancia](/img/pruebas/archivos_eliminados/27939-mercancia.jpg)                                      |
+| **Imagen**       | ![mercancia](/img/pruebas/archivos_eliminados/mercancia.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:20:08 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
@@ -423,7 +423,7 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 | Campo            | Valor                                                                 |
 |------------------|-----------------------------------------------------------------------|
 | **Nombre**       | pastillas.jpg                                                        |
-| **Imagen**       | ![pastillas](/img/pruebas/archivos_eliminados/27941-pastillas.jpg)                                      |
+| **Imagen**       | ![pastillas](/img/pruebas/archivos_eliminados/pastillas.jpg)                                      |
 | **Modified Time**| 2013-03-27 06:19:22 CET                                              |
 | **Change Time**  | 2013-06-19 04:11:24 CEST                                             |
 | **Access Time**  | 2013-06-19 04:11:24 CEST                                             |
