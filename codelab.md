@@ -434,8 +434,11 @@ No se puede descartar que alguien haya alterado las fechas para encubrir activid
 ## Navegación en Internet
 Para encontrar esta información basta con navegar por **Autopsy**, yendo a "Web Search", "Web History", "Web Bookmarks"
 
-[Enlace a historial de búsquedas](https://github.com/tu-usuario/tu-repositorio/ruta-al-archivo)
+### [Enlace a historial](https://github.com/AlvaroCaroFdez/A2.2-DrugTrafficking/blob/main/img/pruebas/navegacion_web/Historial.csv)
 
+### [Enlace a búsquedas](https://github.com/AlvaroCaroFdez/A2.2-DrugTrafficking/blob/main/img/pruebas/navegacion_web/Busquedas.csv)
+
+### [Enlace a marcadores](https://github.com/AlvaroCaroFdez/A2.2-DrugTrafficking/blob/main/img/pruebas/navegacion_web/Marcadores.csv)
 
 <br>
 
